@@ -1,3 +1,3 @@
 # Fireside-Chat
 
-![Zerocon Fireside Chat Infographic.](/FiresideChat.svg)
+![Zerocon Fireside Chat Infographic. ](/FiresideChat.svg)
